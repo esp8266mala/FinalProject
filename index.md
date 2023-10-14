@@ -1,6 +1,7 @@
 ## Muditha.Kumara web exercise
 
 ### Italics and Bold  
+>
 > Writing in Markdown is _not_ that hard!  
 >
 > I **will** complete these lessons!  
@@ -12,10 +13,15 @@
 ### Headers  
 >
 > # Header one
+>
 > ## Header two
+>
 > ### Header three
+>
 > #### Header four
+>
 > ##### Header five
+>
 > ###### Header six  
 
 >#### Colombian Symbolism in _One Hundred Years of Solitude_
@@ -64,7 +70,6 @@
 >
 >>He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
 
-
 ### Lists
 
 >* Flour
@@ -79,21 +84,23 @@
 >* Chrysanthemum (_Anthemideae Chrysanthemum_)
 >* Dahlia (_Coreopsideae Dahlia_)
 
-* Calculus
- * A professor
- * Has no hair
- * Often wears green
-* Castafiore
- * An opera singer
- * Has white hair
- * Is possibly mentally unwell
+>* Calculus  
+>   * A professor
+>   * Has no hair
+>   * Often wears green
 
-1. Cut the cheese
-  
-Make sure that the cheese is cut into little triangles.
+>* Castafiore
+>   * An opera singer
+>   * Has white hair
+>   * Is possibly mentally unwell
 
-2. Slice the tomatoes
-  
- Be careful when holding the knife.
-  
- For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
+>1. Cut the cheese
+>
+>    Make sure that the cheese is cut into little triangles.
+>
+>2. Slice the tomatoes
+>  
+>    Be careful when holding the knife.
+>  
+>    For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
+
