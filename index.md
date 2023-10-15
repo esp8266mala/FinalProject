@@ -1,6 +1,6 @@
 ## Muditha.Kumara web exercise
 
-### <u>[Italics and Bold](https://www.markdowntutorial.com/lesson/1/)</u>  
+### [Italics and Bold](https://www.markdowntutorial.com/lesson/1/)  
 
  Writing in Markdown is _not_ that hard!  
 
@@ -10,7 +10,7 @@
 
  If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.  
 
-### <u>[Headers](https://www.markdowntutorial.com/lesson/2/)</u>  
+### [Headers](https://www.markdowntutorial.com/lesson/2/) 
 
 # Header one
 
@@ -30,7 +30,7 @@ Here's some words about the book _One Hundred Years..._.
 
 ### <u>[Links](https://www.markdowntutorial.com/lesson/3/)</u>  
 
-[Search for it.](www.google.com)
+[Search for it.](https://www.google.com)
 
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 
