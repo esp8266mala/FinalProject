@@ -2,7 +2,7 @@
 
 ### [About Page](/note.md)
 
->Please click the **About Page** (sub-page) for details...
+>Please click the **[About Page](/note.md)** (sub-page) for details...
 
 ### [Italics and Bold Web Exercise Section](https://www.markdowntutorial.com/lesson/1/)  
 
