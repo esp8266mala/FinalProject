@@ -1,6 +1,8 @@
 ## Muditha.Kumara web exercise
 
-### [About Page](https://note.md)
+### [About Page](/note.md)
+
+>Please click the **About Page** (sub-page) for details...
 
 ### [Italics and Bold Web Exercise Section](https://www.markdowntutorial.com/lesson/1/)  
 
