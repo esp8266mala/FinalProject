@@ -28,22 +28,22 @@
 
 Here's some words about the book _One Hundred Years..._.
 
-### <u>[Links](https://www.markdowntutorial.com/lesson/3/)</u>  
+### [Links](https://www.markdowntutorial.com/lesson/3/)
 
 [Search for it.](https://www.google.com)
 
-[You're **really, really** going to want to see this.](www.dailykitten.com)
+[You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
-#### The Latest News from [the BBC](www.bbc.com/news)
+#### The Latest News from [the BBC](https://www.bbc.com/news)
 
 Do you want to [see something fun][a fun place]?
 
 Well, do I have [the website for you][another fun place]!
 
-[a fun place]: www.zombo.com
-[another fun place]: www.stumbleupon.com
+[a fun place]: https://www.zombo.com
+[another fun place]: https://www.stumbleupon.com
 
-### <u>[Images](https://www.markdowntutorial.com/lesson/4/)</u>
+### [Images](https://www.markdowntutorial.com/lesson/4/)
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
@@ -55,7 +55,7 @@ Well, do I have [the website for you][another fun place]!
 
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
-### <u>[Blockquotes](https://www.markdowntutorial.com/lesson/5/)</u>
+### [Blockquotes](https://www.markdowntutorial.com/lesson/5/)
 
 I read this interesting quote the other day:
 >
@@ -69,7 +69,7 @@ I read this interesting quote the other day:
 
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
 
-### <u>[Lists](https://www.markdowntutorial.com/lesson/6/)</u>
+### [Lists](https://www.markdowntutorial.com/lesson/6/)
 
 * Flour
 * Cheese
@@ -103,7 +103,7 @@ I read this interesting quote the other day:
   
     For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
-### <u>[Paragraphs](https://www.markdowntutorial.com/lesson/7/)</u>
+### [Paragraphs](https://www.markdowntutorial.com/lesson/7/)
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
