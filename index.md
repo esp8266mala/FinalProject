@@ -1,5 +1,7 @@
 ## Muditha.Kumara web exercise
 
+### [About Page](https://note.md)
+
 ### [Italics and Bold Web Exercise Section](https://www.markdowntutorial.com/lesson/1/)  
 
  Writing in Markdown is _not_ that hard!  
